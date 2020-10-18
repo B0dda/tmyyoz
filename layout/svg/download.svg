@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d2c76"/>
+      <stop offset="1" stop-color="#b6418f"/>
+    </linearGradient>
+  </defs>
+  <g id="download_1_" data-name="download (1)" transform="translate(0)">
+    <g id="Group_1320" data-name="Group 1320" transform="translate(0 0)">
+      <circle id="Ellipse_364" data-name="Ellipse 364" cx="48" cy="48" r="48" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_1322" data-name="Group 1322" transform="translate(19.688 21.375)">
+      <g id="Group_1321" data-name="Group 1321">
+        <path id="Path_10877" data-name="Path 10877" d="M143.305,150.609h-3.331V135.633a1.664,1.664,0,0,0-1.665-1.664h-9.993a1.664,1.664,0,0,0-1.665,1.664v14.977H123.32a1.664,1.664,0,0,0-1.334,2.662l9.993,13.313a1.668,1.668,0,0,0,2.667,0l9.993-13.313a1.664,1.664,0,0,0-1.334-2.662Zm9.892-23.175a11.661,11.661,0,0,0-14.9-9.616,14.976,14.976,0,0,0-24.887,9.619,9.985,9.985,0,0,0,1.587,19.844h8.327V135.633a5,5,0,0,1,5-4.992h9.993a5,5,0,0,1,5,4.992v11.648h8.327a9.984,9.984,0,0,0,1.564-19.847Zm-14.888-.122h-9.993a1.664,1.664,0,1,1,0-3.328h9.993a1.664,1.664,0,1,1,0,3.328Z" transform="translate(-105 -114)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

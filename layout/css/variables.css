@@ -1,0 +1,7 @@
+:root {
+  --main-bg-color: #FFFFFF;
+  --primary: #4D2C76;
+  --primary-faded: rgba(72, 34, 120, 0.92);
+  --accent: #B6418F;
+  --side-paddings: 15%;
+}

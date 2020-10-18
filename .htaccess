@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^files?id=([0-9]+)/?$ files.php?id=$1 [NC]
+
+RewriteRule ^files/?$ files.php [NC]
